@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/menu/menu_activity_park.xml",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/menu/menu_activity_park.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/menu/activity_maps_drawer.xml",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/menu/activity_maps_drawer.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/menu/navigation.xml",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/menu/navigation.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/menu/menu_navigation.xml",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/menu/menu_navigation.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/menu/bottombar_menu.xml",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/menu/bottombar_menu.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/menu/maps.xml",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/menu/maps.xml"
+    }
+]

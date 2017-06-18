@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.isyandra.parkit">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:name=".application.App"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".view.other.SliderActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".view.other.SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyAWjNLoN8emK5cOAUCH4YMXSzR4v4jpJC4" />
+
+        <activity
+            android:name=".view.MapsActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".view.DetailMaps"
+            android:theme="@style/SettingTheme"
+            android:label="Detail Parkir"></activity>
+        <activity
+            android:name=".view.ActivityPark"
+            android:launchMode="singleTask"
+            android:label="@string/title_activity_park"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".view.DetailPromo"
+            android:label="Detail Promo"
+            android:theme="@style/SettingTheme" />
+        <activity
+            android:name=".view.about.About"
+            android:label="About"
+            android:theme="@style/SettingTheme" />
+        <activity android:name=".view.about.Version" />
+        <activity
+            android:name=".view.about.HelpActivity"
+            android:label="Help"
+            android:theme="@style/SettingTheme" />
+    </application>
+</manifest>

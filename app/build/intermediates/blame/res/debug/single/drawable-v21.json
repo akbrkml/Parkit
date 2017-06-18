@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/akbar/.android/build-cache/c07aff387ebd38d953c1c957320d5781a0a917e6/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/akbar/.android/build-cache/c07aff387ebd38d953c1c957320d5781a0a917e6/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/akbar/.android/build-cache/c07aff387ebd38d953c1c957320d5781a0a917e6/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/akbar/.android/build-cache/c07aff387ebd38d953c1c957320d5781a0a917e6/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    }
+]

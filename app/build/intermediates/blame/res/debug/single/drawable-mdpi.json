@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_expand_small_holo_light.png",
+        "source": "/home/akbar/.android/build-cache/a1405784b2cee5b77f3260342cbe24d8005bf049/output/res/drawable-mdpi/ic_expand_small_holo_light.png"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_collapse_small_holo_light.png",
+        "source": "/home/akbar/.android/build-cache/a1405784b2cee5b77f3260342cbe24d8005bf049/output/res/drawable-mdpi/ic_collapse_small_holo_light.png"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_collapse_large_holo_light.png",
+        "source": "/home/akbar/.android/build-cache/a1405784b2cee5b77f3260342cbe24d8005bf049/output/res/drawable-mdpi/ic_collapse_large_holo_light.png"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_expand_large_holo_light.png",
+        "source": "/home/akbar/.android/build-cache/a1405784b2cee5b77f3260342cbe24d8005bf049/output/res/drawable-mdpi/ic_expand_large_holo_light.png"
+    }
+]

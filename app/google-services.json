@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "805001829484",
+    "firebase_url": "https://lightcontrol-5189d.firebaseio.com",
+    "project_id": "lightcontrol-5189d",
+    "storage_bucket": "lightcontrol-5189d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805001829484:android:1173224a3bfe195b",
+        "android_client_info": {
+          "package_name": "com.cevest.parkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805001829484-1dofgmptnh541qqg466c17ion4ilh8j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUJ4ZorCa8ygxuxM0iq80BVdrUpz8LnTo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

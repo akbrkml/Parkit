@@ -1,0 +1,430 @@
+[
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/akbar/.android/build-cache/8f3035af01973d5935ef2b65c3ffca0b521a3b87/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/akbar/.android/build-cache/8f3035af01973d5935ef2b65c3ffca0b521a3b87/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/information.xml",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/information.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/gm.png",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/gm.png"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/ic_looks_one_black_24dp.xml",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/ic_looks_one_black_24dp.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/material_drawer_circle_mask.xml",
+        "source": "/home/akbar/.android/build-cache/25e733537bf19f1a6b71d717af8fee5e5664f242/output/res/drawable/material_drawer_circle_mask.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/home/akbar/.android/build-cache/8f3035af01973d5935ef2b65c3ffca0b521a3b87/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/about.png",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/about.png"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/bb_bottom_bar_top_shadow.xml",
+        "source": "/home/akbar/.android/build-cache/5c5bdb6e7a707ed5fcdc81fd257d5df6e8d17b5f/output/res/drawable/bb_bottom_bar_top_shadow.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/ic_travel.png",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/ic_travel.png"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/akbar/.android/build-cache/8f3035af01973d5935ef2b65c3ffca0b521a3b87/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/side_nav_bar.xml",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/material_drawer_shadow_right.9.png",
+        "source": "/home/akbar/.android/build-cache/25e733537bf19f1a6b71d717af8fee5e5664f242/output/res/drawable/material_drawer_shadow_right.9.png"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/material_drawer_shadow_top.xml",
+        "source": "/home/akbar/.android/build-cache/25e733537bf19f1a6b71d717af8fee5e5664f242/output/res/drawable/material_drawer_shadow_top.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/near_me.xml",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/near_me.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/material_drawer_shadow_bottom.xml",
+        "source": "/home/akbar/.android/build-cache/25e733537bf19f1a6b71d717af8fee5e5664f242/output/res/drawable/material_drawer_shadow_bottom.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/autorenew.png",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/autorenew.png"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/ins.png",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/ins.png"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/ic_movie.png",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/ic_movie.png"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/home/akbar/.android/build-cache/8f3035af01973d5935ef2b65c3ffca0b521a3b87/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/park5.jpg",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/park5.jpg"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/map.xml",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/map.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/facebook.png",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/facebook.png"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/ic_discount.png",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/ic_discount.png"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/ic_looks_two_black_24dp.xml",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/ic_looks_two_black_24dp.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/ic_map_black_24dp.png",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/ic_map_black_24dp.png"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/ic_notifications_black_24dp.xml",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/material_drawer_shadow_left.9.png",
+        "source": "/home/akbar/.android/build-cache/25e733537bf19f1a6b71d717af8fee5e5664f242/output/res/drawable/material_drawer_shadow_left.9.png"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/ic_menu_share.xml",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/ic_menu_share.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/parkit.png",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/parkit.png"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/akbar/.android/build-cache/8f3035af01973d5935ef2b65c3ffca0b521a3b87/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/ic_menu_camera.xml",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/gmail.png",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/gmail.png"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/fbb.png",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/fbb.png"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/akbar/.android/build-cache/8f3035af01973d5935ef2b65c3ffca0b521a3b87/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/park7.jpg",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/park7.jpg"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/ic_home_black_24dp.xml",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/ic_expand_holo_light.xml",
+        "source": "/home/akbar/.android/build-cache/a1405784b2cee5b77f3260342cbe24d8005bf049/output/res/drawable/ic_expand_holo_light.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/ic_menu_manage.xml",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/help.png",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/help.png"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/ic_contact_mail_black_24dp.xml",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/ic_contact_mail_black_24dp.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/akbar/.android/build-cache/c07aff387ebd38d953c1c957320d5781a0a917e6/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/home/akbar/.android/build-cache/c07aff387ebd38d953c1c957320d5781a0a917e6/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/fav.png",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/fav.png"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/ic_food.png",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/ic_food.png"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/ic_dashboard_black_24dp.xml",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/ic_looks_3_black_24dp.xml",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/ic_looks_3_black_24dp.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/ic_menu_slideshow.xml",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/park6.jpg",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/park6.jpg"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/akbar/.android/build-cache/8f3035af01973d5935ef2b65c3ffca0b521a3b87/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/indicator_corner_bg.xml",
+        "source": "/home/akbar/.android/build-cache/ecb085c9c4f8334f17669b7563d0eaeb2617d914/output/res/drawable/indicator_corner_bg.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/marker_satu.png",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/marker_satu.png"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/autorenew1.png",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/autorenew1.png"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/ic_settings_black_24dp.xml",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/ic_settings_black_24dp.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/akbar/.android/build-cache/8f3035af01973d5935ef2b65c3ffca0b521a3b87/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/home/akbar/.android/build-cache/8f3035af01973d5935ef2b65c3ffca0b521a3b87/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/instagram.png",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/instagram.png"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/material_drawer_badge.xml",
+        "source": "/home/akbar/.android/build-cache/25e733537bf19f1a6b71d717af8fee5e5664f242/output/res/drawable/material_drawer_badge.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/ic_collapse_holo_light.xml",
+        "source": "/home/akbar/.android/build-cache/a1405784b2cee5b77f3260342cbe24d8005bf049/output/res/drawable/ic_collapse_holo_light.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/park.jpg",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/park.jpg"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/akbar/.android/build-cache/8f3035af01973d5935ef2b65c3ffca0b521a3b87/output/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/ic_menu_gallery.xml",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/help_circle.xml",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/help_circle.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/akbar/.android/build-cache/8f3035af01973d5935ef2b65c3ffca0b521a3b87/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/akbar/.android/build-cache/c07aff387ebd38d953c1c957320d5781a0a917e6/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/akbar/.android/build-cache/8f3035af01973d5935ef2b65c3ffca0b521a3b87/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/promo.png",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/promo.png"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/arrow.png",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/arrow.png"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/ic_menu_send.xml",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/ic_menu_send.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/akbar/.android/build-cache/8f3035af01973d5935ef2b65c3ffca0b521a3b87/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable/ic_menu_search.png",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/drawable/ic_menu_search.png"
+    }
+]

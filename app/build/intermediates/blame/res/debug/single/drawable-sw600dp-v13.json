@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable-sw600dp-v13/ic_collapse_holo_light.xml",
+        "source": "/home/akbar/.android/build-cache/a1405784b2cee5b77f3260342cbe24d8005bf049/output/res/drawable-sw600dp/ic_collapse_holo_light.xml"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/drawable-sw600dp-v13/ic_expand_holo_light.xml",
+        "source": "/home/akbar/.android/build-cache/a1405784b2cee5b77f3260342cbe24d8005bf049/output/res/drawable-sw600dp/ic_expand_holo_light.xml"
+    }
+]

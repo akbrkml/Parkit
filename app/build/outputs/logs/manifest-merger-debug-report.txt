@@ -1,0 +1,353 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:2:1-62:12
+	package
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/akbar/.android/build-cache/834644db6d5f88f48195a7c057f6af99512ab082/output/AndroidManifest.xml:20:5-66
+MERGED from [com.daimajia.slider:library:1.1.5] /home/akbar/.android/build-cache/ecb085c9c4f8334f17669b7563d0eaeb2617d914/output/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/akbar/.android/build-cache/54886de89362a7a44c0a4ebf78b0994dfb16d471/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/akbar/.android/build-cache/c25553f1e71120a058bb3ba8987173fbdecb7871/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/akbar/.android/build-cache/a06178173fe35493daf210b7894d152cb827bcd1/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:7:22-78
+application
+ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:9:5-61:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /home/akbar/.android/build-cache/25dfdbb4d4487f51803d1b6a7704da76e82f5de7/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.0] /home/akbar/.android/build-cache/c07aff387ebd38d953c1c957320d5781a0a917e6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/akbar/.android/build-cache/e1c93c977793f94381a13d00b7d956635c0ed822/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/akbar/.android/build-cache/02063871c06cf1c2c1e919f187b2a91834e96836/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.0] /home/akbar/.android/build-cache/45febe91d15c79cce65379514c3671c75d48dca5/output/AndroidManifest.xml:26:5-20
+MERGED from [com.ms-square:expandableTextView:0.1.4] /home/akbar/.android/build-cache/a1405784b2cee5b77f3260342cbe24d8005bf049/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/akbar/.android/build-cache/834644db6d5f88f48195a7c057f6af99512ab082/output/AndroidManifest.xml:24:5-19
+MERGED from [com.android.support:cardview-v7:25.3.0] /home/akbar/.android/build-cache/98216fafa3feae9cc33676ebb387adce3b39300e/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-auth:10.2.1] /home/akbar/.android/build-cache/e36a4b897d410b07fc34c26c24bdc61a424988e2/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /home/akbar/.android/build-cache/8f3035af01973d5935ef2b65c3ffca0b521a3b87/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:10.2.1] /home/akbar/.android/build-cache/54ed661f71101d6e288ea520cf7628b1feb81528/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/akbar/.android/build-cache/54886de89362a7a44c0a4ebf78b0994dfb16d471/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/akbar/.android/build-cache/c25553f1e71120a058bb3ba8987173fbdecb7871/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/akbar/.android/build-cache/a06178173fe35493daf210b7894d152cb827bcd1/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:10.2.1] /home/akbar/.android/build-cache/9975fc7caf276c6e8a18b795d12e4a2284a5ee0c/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /home/akbar/.android/build-cache/d358b24c5071f331878688fb06318f751c210fbb/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/akbar/.android/build-cache/f39805c83509d38d1a4a67740f8ca0e94672601a/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.0] /home/akbar/.android/build-cache/177b46598d153fdd8062d355696254ddecf0f506/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /home/akbar/.android/build-cache/f2d81d6c76fdaa8658109a0c6e72501f7289252b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/akbar/.android/build-cache/42ad6acc80d96fe4f2f4fdf0914251ff0bd86db1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/akbar/.android/build-cache/7681351b61f6cdb4ff2938949108c61b10a20f59/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/akbar/.android/build-cache/3ae392315fba5bf71600216c4ee4c74a495d70d5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /home/akbar/.android/build-cache/cb114495e2d0fd3dbbef94026a7236b6d3652990/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:15:9-35
+	android:roundIcon
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:14:9-54
+	android:allowBackup
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.example.isyandra.parkit.view.other.SliderActivity
+ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:17:19-60
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:21:17-76
+	android:name
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:21:27-73
+activity#com.example.isyandra.parkit.view.other.SplashScreen
+ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:24:9-30:20
+	android:name
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:24:19-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:25:13-29:29
+category#android.intent.category.LAUNCHER
+ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:28:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:32:9-34:71
+	android:value
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:34:13-68
+	android:name
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:33:13-58
+activity#com.example.isyandra.parkit.view.MapsActivity
+ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:36:9-39:47
+	android:label
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:38:13-45
+	android:theme
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:39:13-44
+	android:name
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:37:13-46
+activity#com.example.isyandra.parkit.view.DetailMaps
+ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:40:9-42:54
+	android:label
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:42:13-42
+	android:theme
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:41:13-48
+	android:name
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:40:19-50
+activity#com.example.isyandra.parkit.view.ActivityPark
+ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:43:9-47:47
+	android:label
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:46:13-56
+	android:launchMode
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:45:13-44
+	android:theme
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:47:13-44
+	android:name
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:44:13-46
+activity#com.example.isyandra.parkit.view.DetailPromo
+ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:48:9-51:51
+	android:label
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:50:13-41
+	android:theme
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:51:13-48
+	android:name
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:49:13-45
+activity#com.example.isyandra.parkit.view.about.About
+ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:52:9-55:51
+	android:label
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:54:13-34
+	android:theme
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:55:13-48
+	android:name
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:53:13-45
+activity#com.example.isyandra.parkit.view.about.Version
+ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:56:9-56
+	android:name
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:56:19-53
+activity#com.example.isyandra.parkit.view.about.HelpActivity
+ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:57:9-60:51
+	android:label
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:59:13-33
+	android:theme
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:60:13-48
+	android:name
+		ADDED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:58:13-52
+uses-sdk
+INJECTED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.mikepenz:materialdrawer:5.3.1] /home/akbar/.android/build-cache/25e733537bf19f1a6b71d717af8fee5e5664f242/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:materialize:0.9.0] /home/akbar/.android/build-cache/0e62e83a78f4e3f098d6fab07f3d77d881f39b01/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:iconics-core:2.6.6] /home/akbar/.android/build-cache/c5a756660031665d542e6ce1ea43242ce476e685/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter:1.5.5] /home/akbar/.android/build-cache/408c88603a64783f1429987f724919c2e9d8b382/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /home/akbar/.android/build-cache/25dfdbb4d4487f51803d1b6a7704da76e82f5de7/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.ncapdevi:frag-nav:1.0.3] /home/akbar/.android/build-cache/ef3b5fb51f5288b5d1f131312eb168762cf84d74/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.roughike:bottom-bar:1.3.9] /home/akbar/.android/build-cache/5c5bdb6e7a707ed5fcdc81fd257d5df6e8d17b5f/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:25.3.0] /home/akbar/.android/build-cache/c07aff387ebd38d953c1c957320d5781a0a917e6/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/akbar/.android/build-cache/e1c93c977793f94381a13d00b7d956635c0ed822/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/akbar/.android/build-cache/02063871c06cf1c2c1e919f187b2a91834e96836/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/akbar/.android/build-cache/14f516362fd2dbba23b132694989edb472b1d1fb/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.0] /home/akbar/.android/build-cache/45febe91d15c79cce65379514c3671c75d48dca5/output/AndroidManifest.xml:20:5-44
+MERGED from [com.ms-square:expandableTextView:0.1.4] /home/akbar/.android/build-cache/a1405784b2cee5b77f3260342cbe24d8005bf049/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/akbar/.android/build-cache/834644db6d5f88f48195a7c057f6af99512ab082/output/AndroidManifest.xml:23:5-43
+MERGED from [com.daimajia.slider:library:1.1.5] /home/akbar/.android/build-cache/ecb085c9c4f8334f17669b7563d0eaeb2617d914/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:25.3.0] /home/akbar/.android/build-cache/98216fafa3feae9cc33676ebb387adce3b39300e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.1] /home/akbar/.android/build-cache/d516ecfd15d91e40c251182e6b03a2078015b5c5/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.1] /home/akbar/.android/build-cache/1c458a07f3ff56a5605287b99e9b8df74aade2e0/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.1] /home/akbar/.android/build-cache/e36a4b897d410b07fc34c26c24bdc61a424988e2/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /home/akbar/.android/build-cache/8f3035af01973d5935ef2b65c3ffca0b521a3b87/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-core:10.2.1] /home/akbar/.android/build-cache/54ed661f71101d6e288ea520cf7628b1feb81528/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/akbar/.android/build-cache/54886de89362a7a44c0a4ebf78b0994dfb16d471/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/akbar/.android/build-cache/c25553f1e71120a058bb3ba8987173fbdecb7871/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/akbar/.android/build-cache/a06178173fe35493daf210b7894d152cb827bcd1/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.1] /home/akbar/.android/build-cache/9975fc7caf276c6e8a18b795d12e4a2284a5ee0c/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /home/akbar/.android/build-cache/d358b24c5071f331878688fb06318f751c210fbb/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/akbar/.android/build-cache/f39805c83509d38d1a4a67740f8ca0e94672601a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.0] /home/akbar/.android/build-cache/177b46598d153fdd8062d355696254ddecf0f506/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] /home/akbar/.android/build-cache/f2d81d6c76fdaa8658109a0c6e72501f7289252b/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/akbar/.android/build-cache/42ad6acc80d96fe4f2f4fdf0914251ff0bd86db1/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/akbar/.android/build-cache/7681351b61f6cdb4ff2938949108c61b10a20f59/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.jakewharton:butterknife:8.5.1] /home/akbar/.android/build-cache/41c4401a4125dddb3037bf9e96f9fe570269e431/output/AndroidManifest.xml:5:5-43
+MERGED from [com.github.chrisbanes:PhotoView:1.3.1] /home/akbar/.android/build-cache/ff6d0b4aa4b3dbacdee2ccbd2afd869a00ecdd5b/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/akbar/.android/build-cache/3ae392315fba5bf71600216c4ee4c74a495d70d5/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.0] /home/akbar/.android/build-cache/cb114495e2d0fd3dbbef94026a7236b6d3652990/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.0] /home/akbar/.android/build-cache/c07aff387ebd38d953c1c957320d5781a0a917e6/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.0] /home/akbar/.android/build-cache/c07aff387ebd38d953c1c957320d5781a0a917e6/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/akbar/.android/build-cache/721899809c3157f889c2dd684e90f4e901f75f2d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/akbar/.android/build-cache/e1c93c977793f94381a13d00b7d956635c0ed822/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/akbar/.android/build-cache/02063871c06cf1c2c1e919f187b2a91834e96836/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/akbar/.android/build-cache/14f516362fd2dbba23b132694989edb472b1d1fb/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.0] /home/akbar/.android/build-cache/45febe91d15c79cce65379514c3671c75d48dca5/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.0] /home/akbar/.android/build-cache/98216fafa3feae9cc33676ebb387adce3b39300e/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.0] /home/akbar/.android/build-cache/177b46598d153fdd8062d355696254ddecf0f506/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /home/akbar/.android/build-cache/f2d81d6c76fdaa8658109a0c6e72501f7289252b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/akbar/.android/build-cache/42ad6acc80d96fe4f2f4fdf0914251ff0bd86db1/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/akbar/.android/build-cache/7681351b61f6cdb4ff2938949108c61b10a20f59/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/akbar/.android/build-cache/3ae392315fba5bf71600216c4ee4c74a495d70d5/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] /home/akbar/.android/build-cache/cb114495e2d0fd3dbbef94026a7236b6d3652990/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.0] /home/akbar/.android/build-cache/c07aff387ebd38d953c1c957320d5781a0a917e6/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.0] /home/akbar/.android/build-cache/c07aff387ebd38d953c1c957320d5781a0a917e6/output/AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/akbar/.android/build-cache/834644db6d5f88f48195a7c057f6af99512ab082/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/akbar/.android/build-cache/54886de89362a7a44c0a4ebf78b0994dfb16d471/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/akbar/.android/build-cache/c25553f1e71120a058bb3ba8987173fbdecb7871/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/akbar/.android/build-cache/a06178173fe35493daf210b7894d152cb827bcd1/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/akbar/.android/build-cache/834644db6d5f88f48195a7c057f6af99512ab082/output/AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/akbar/.android/build-cache/834644db6d5f88f48195a7c057f6af99512ab082/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/akbar/.android/build-cache/834644db6d5f88f48195a7c057f6af99512ab082/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/akbar/.android/build-cache/834644db6d5f88f48195a7c057f6af99512ab082/output/AndroidManifest.xml:21:52-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.daimajia.slider:library:1.1.5] /home/akbar/.android/build-cache/ecb085c9c4f8334f17669b7563d0eaeb2617d914/output/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from [com.daimajia.slider:library:1.1.5] /home/akbar/.android/build-cache/ecb085c9c4f8334f17669b7563d0eaeb2617d914/output/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/AndroidManifest.xml:2:1-62:12 reason: com.daimajia.slider.library requested WRITE_EXTERNAL_STORAGE
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/akbar/.android/build-cache/8f3035af01973d5935ef2b65c3ffca0b521a3b87/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/akbar/.android/build-cache/8f3035af01973d5935ef2b65c3ffca0b521a3b87/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/akbar/.android/build-cache/8f3035af01973d5935ef2b65c3ffca0b521a3b87/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/akbar/.android/build-cache/8f3035af01973d5935ef2b65c3ffca0b521a3b87/output/AndroidManifest.xml:19:19-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/akbar/.android/build-cache/54886de89362a7a44c0a4ebf78b0994dfb16d471/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/akbar/.android/build-cache/c25553f1e71120a058bb3ba8987173fbdecb7871/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/akbar/.android/build-cache/a06178173fe35493daf210b7894d152cb827bcd1/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/akbar/.android/build-cache/54886de89362a7a44c0a4ebf78b0994dfb16d471/output/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/akbar/.android/build-cache/54886de89362a7a44c0a4ebf78b0994dfb16d471/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/akbar/.android/build-cache/c25553f1e71120a058bb3ba8987173fbdecb7871/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/akbar/.android/build-cache/54886de89362a7a44c0a4ebf78b0994dfb16d471/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/akbar/.android/build-cache/54886de89362a7a44c0a4ebf78b0994dfb16d471/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/akbar/.android/build-cache/54886de89362a7a44c0a4ebf78b0994dfb16d471/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/akbar/.android/build-cache/54886de89362a7a44c0a4ebf78b0994dfb16d471/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/akbar/.android/build-cache/54886de89362a7a44c0a4ebf78b0994dfb16d471/output/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/akbar/.android/build-cache/54886de89362a7a44c0a4ebf78b0994dfb16d471/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/akbar/.android/build-cache/54886de89362a7a44c0a4ebf78b0994dfb16d471/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/akbar/.android/build-cache/54886de89362a7a44c0a4ebf78b0994dfb16d471/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/akbar/.android/build-cache/54886de89362a7a44c0a4ebf78b0994dfb16d471/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/akbar/.android/build-cache/54886de89362a7a44c0a4ebf78b0994dfb16d471/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/akbar/.android/build-cache/54886de89362a7a44c0a4ebf78b0994dfb16d471/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/akbar/.android/build-cache/c25553f1e71120a058bb3ba8987173fbdecb7871/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/akbar/.android/build-cache/54886de89362a7a44c0a4ebf78b0994dfb16d471/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/akbar/.android/build-cache/54886de89362a7a44c0a4ebf78b0994dfb16d471/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/akbar/.android/build-cache/54886de89362a7a44c0a4ebf78b0994dfb16d471/output/AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/akbar/.android/build-cache/a06178173fe35493daf210b7894d152cb827bcd1/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/akbar/.android/build-cache/a06178173fe35493daf210b7894d152cb827bcd1/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/akbar/.android/build-cache/a06178173fe35493daf210b7894d152cb827bcd1/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/akbar/.android/build-cache/a06178173fe35493daf210b7894d152cb827bcd1/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/akbar/.android/build-cache/a06178173fe35493daf210b7894d152cb827bcd1/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/akbar/.android/build-cache/a06178173fe35493daf210b7894d152cb827bcd1/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/akbar/.android/build-cache/a06178173fe35493daf210b7894d152cb827bcd1/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/akbar/.android/build-cache/a06178173fe35493daf210b7894d152cb827bcd1/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/akbar/.android/build-cache/a06178173fe35493daf210b7894d152cb827bcd1/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/akbar/.android/build-cache/a06178173fe35493daf210b7894d152cb827bcd1/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/akbar/.android/build-cache/a06178173fe35493daf210b7894d152cb827bcd1/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/akbar/.android/build-cache/a06178173fe35493daf210b7894d152cb827bcd1/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/akbar/.android/build-cache/a06178173fe35493daf210b7894d152cb827bcd1/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/akbar/.android/build-cache/a06178173fe35493daf210b7894d152cb827bcd1/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/akbar/.android/build-cache/a06178173fe35493daf210b7894d152cb827bcd1/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/akbar/.android/build-cache/a06178173fe35493daf210b7894d152cb827bcd1/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/akbar/.android/build-cache/a06178173fe35493daf210b7894d152cb827bcd1/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/akbar/.android/build-cache/a06178173fe35493daf210b7894d152cb827bcd1/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/akbar/.android/build-cache/a06178173fe35493daf210b7894d152cb827bcd1/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/akbar/.android/build-cache/a06178173fe35493daf210b7894d152cb827bcd1/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/akbar/.android/build-cache/a06178173fe35493daf210b7894d152cb827bcd1/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/akbar/.android/build-cache/a06178173fe35493daf210b7894d152cb827bcd1/output/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/akbar/.android/build-cache/a06178173fe35493daf210b7894d152cb827bcd1/output/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/akbar/.android/build-cache/a06178173fe35493daf210b7894d152cb827bcd1/output/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/akbar/.android/build-cache/a06178173fe35493daf210b7894d152cb827bcd1/output/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/akbar/.android/build-cache/a06178173fe35493daf210b7894d152cb827bcd1/output/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.1] /home/akbar/.android/build-cache/9975fc7caf276c6e8a18b795d12e4a2284a5ee0c/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /home/akbar/.android/build-cache/9975fc7caf276c6e8a18b795d12e4a2284a5ee0c/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /home/akbar/.android/build-cache/9975fc7caf276c6e8a18b795d12e4a2284a5ee0c/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /home/akbar/.android/build-cache/9975fc7caf276c6e8a18b795d12e4a2284a5ee0c/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /home/akbar/.android/build-cache/9975fc7caf276c6e8a18b795d12e4a2284a5ee0c/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.1] /home/akbar/.android/build-cache/f39805c83509d38d1a4a67740f8ca0e94672601a/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] /home/akbar/.android/build-cache/f39805c83509d38d1a4a67740f8ca0e94672601a/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] /home/akbar/.android/build-cache/f39805c83509d38d1a4a67740f8ca0e94672601a/output/AndroidManifest.xml:20:20-65

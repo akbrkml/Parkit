@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sampleStrings">
+        <item>"Bagaimana cara saya tahu tempat parkir mana yang kosong?
+1. Buka aplikasi ParkIt hingga SplashScreen muncul.
+2. Setelah SplashScreen hilang, pada ImageSlider bisa tekan tombol 'Next' atau bisa juga tekan tombol 'Skip'.
+3. Pada tampilan map view akan tampil tempat lokasi parkir yang sudah bekerja sama dengan Parkit dan disini juga bisa mencari lokasi.
+4. Lalu, akan muncul tampilan Lokasi Parkir.
+Parkiran yang kosong berwarna hijau, sedangkan parkiran yang terisi akan berwarna merah.
+Di tampilan ini juga menampilkan apa saja yang tersedia di lokasi tempat parkir yang anda pilih. (Contoh: promo.)
+5. Parkir kendaraan anda sesuai dengan lokasi parkir yang telah anda pilih."</item>
+        <item>"Apakah saya harus login untuk menggunakan aplikasi ini?
+Tidak, karena aplikasi ini hanya perlu menentukan Region dan Place yang akan dituju."</item>
+        <item>"Apakah saya harus reservasi unutk mendapatkan tempat parkir?
+Tidak, karena aplikasi ini hanya menampilkan tempat parkir yang kosong saja."</item>
+        <item>"Bagaimana cara mengontak kami jika ingin memberikan saran/kritik?
+Sosial media dan kontak kami berada di menu About"</item>
+
+    </string-array>
+</resources>

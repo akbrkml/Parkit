@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/akbar/AndroidStudioProjects/ParkIT2/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/akbar/AndroidStudioProjects/ParkIT2/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]
